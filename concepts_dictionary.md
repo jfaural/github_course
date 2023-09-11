@@ -12,6 +12,12 @@ What is Github? It is a collection of all your Git repositories. It is online.
    
    OBS: Why to use the staging area? The staging area is important because you can commit files together. You can track parallel changes together.
 
-3. Local repository: where you save your snapshots. The `.git` is your local repository, it is a hidden folder. If you delete the file, you delete your local repository. You can use `ls -la` to visualize your `.git` folder. It is also in my computer - locally. 
-   
-   P.s: you can do `git status `to check the location of the files
+3. Local repository: where you save your snapshots. The `.git` is your local repository, it is a hidden folder. If you delete the file, you delete your local repository. You can use `ls -la` to visualize your `.git` folder. It is also in my computer - locally. P.s: you can do `git status `to check the location of the files.
+
+4. Remote repository: github. We have to create a link between the git repository and github.
+
+
+
+`README.txt`: detailed description of your project and tool usage (if it is the case)
+
+`.gitignore` : list of files that should not be added to repository (data files, backup files, intermediate files). You can list one by one, the template or regular expressions (`*.csv` to ignore all files, `!dataset.csv` all except this one, # to make comments)
