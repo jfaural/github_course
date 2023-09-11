@@ -19,3 +19,7 @@
    `git status`
 
                It will tell me uncommited, unstaged and untracked files.
+
+
+
+Testing what happens if I don't use -m to commit
