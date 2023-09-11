@@ -14,7 +14,7 @@ What is Github? It is a collection of all your Git repositories. It is online.
 
 3. Local repository: where you save your snapshots. The `.git` is your local repository, it is a hidden folder. If you delete the file, you delete your local repository. You can use `ls -la` to visualize your `.git` folder. It is also in my computer - locally. P.s: you can do `git status `to check the location of the files.
 
-4. Remote repository: github. We have to create a link between the git repository and github.
+4. Remote repository: github. We have to create a link between the git repository and github. This most likely a clour-like kind of repository. In this case it is represented by GitHub. 
 
 `README.txt`: detailed description of your project and tool usage (if it is the case)
 

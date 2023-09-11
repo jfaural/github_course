@@ -33,3 +33,9 @@ Testing what happens if I don't use -m to commit
 6. How can I travel within the timeline to check for differences in my versions? It is important which one you put first, because it is going to be one minus the other. You can see the commit id with `git log`. Or with `git show -2` you can see the last 2 versions.
 
         `git diff <commit_id1> <commit_id2>`
+
+7. How to create and use a link between local and remote repository
+   
+   1. Create a link (bridge): `git remote add <name4link> <ssh key>`. The name for link is usually the same name as my repositories but ca be anything I like. It is just a name for the link that is being created.
+   
+   2. Send things from the local to your remote repository: `git push`
