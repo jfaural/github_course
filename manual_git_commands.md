@@ -14,6 +14,8 @@
    
    Meaningful means: why, how, limitations and effects.
    
+   4. How to check in what conceptual areas my files are:
    
+   `git status`
 
-
+               It will tell me uncommited, unstaged and untracked files.
