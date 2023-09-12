@@ -29,3 +29,7 @@ It is useful for experimenting risk free, and also to collaborate in a project w
 You create a branch with `git branch <name>`
 
 WIth git checkout you can move from one branch to the other. You move through branches and commits.
+
+# Thumb files
+
+No one knows what a thumb file is. It is the great mystery of our time. Many have tried and failed to know it. In every folder, a thumb file may hide; luring, waiting, anticipating. Deep in the shadows of unpushed branches, between unsaved changes and lost files, it awaits its time to strike.
