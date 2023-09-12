@@ -47,3 +47,7 @@ Testing what happens if I don't use -m to commit
 10. Helpful comment from Matilde
 
 11. How to create a new branch `git branch <name>`
+
+12. Save the same script with 5 different names, on the server, locally and in github and then never, ever find the 'good' version again. 
+
+13. Dream of it forever, listfully staring at the one shitty version you seem to have saved everywhere
