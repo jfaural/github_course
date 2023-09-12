@@ -39,7 +39,7 @@ Testing what happens if I don't use -m to commit
    1. Create a link (bridge): `git remote add <name4link> <ssh key>`. The name for link is usually the same name as my repositories but ca be anything I like. It is just a name for the link that is being created.
    
    2. Send things from the local to your remote repository: `git push`
-  
-8. How to bring changes from the remote to the local repository
 
-   `git pull` Examples on when to pull: when a collaborator made a change, or when I changed things on the remote directly.
+8. How to restore a local repository from the remote repository: `git clone <ssh key>`. You get the content, creates the local repository and creates the bridge between the local and the remore.
+
+9. How to recover a deleted commit: `git reset` you can lose information, it is safer to use `git revert HEAD`, it reverts to the previous stage of the timeline. You can `git revert` the revert.
