@@ -47,3 +47,11 @@ Testing what happens if I don't use -m to commit
 10. Helpful comment from Matilde
 
 11. How to create a new branch `git branch <name>`
+
+12. How to go to another branch `git checkout <branch_name>`. Use `git status` to see in which branch you are.
+
+13. How to get remote branches `git fetch`
+
+14. Getting a list of all the branches `git branch --list`
+
+15. 
