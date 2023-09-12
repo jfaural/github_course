@@ -48,6 +48,11 @@ Testing what happens if I don't use -m to commit
 
 11. How to create a new branch `git branch <name>`
 
-12. Save the same script with 5 different names, on the server, locally and in github and then never, ever find the 'good' version again. 
+WHERE DID 12 GO????????
 
-13. Dream of it forever, listfully staring at the one shitty version you seem to have saved everywhere
+13. Save the same script with 5 different names, on the server, locally and in github and then never, ever find the 'good' version again. 
+
+14. Dream of it forever, listfully staring at the one shitty version you seem to have saved everywhere
+    =======
+
+15. How to get all the branches (local and remote repository) `git fetch`
