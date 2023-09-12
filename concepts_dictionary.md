@@ -21,3 +21,11 @@ What is Github? It is a collection of all your Git repositories. It is online.
 `.gitignore` : list of files that should not be added to repository (data files, backup files, intermediate files). You can list one by one, the template or regular expressions (`*.csv` to ignore all files, `!dataset.csv` all except this one, # to make comments).
 
 How do you connect your local and remote repository? SSH key! You first create a bridge `git remote add github_course git@github.com:jfaural/github_course.git`. Now things can go back and forth. You did not send anything yet. To send things through the bridge you use `git push` and the name of the repository. 
+
+## Branches
+
+It is useful for experimenting risk free, and also to collaborate in a project working in different tasks. Also you can look for different solutions on the same issue.
+
+You create a branch with `git branch <name>`
+
+WIth git checkout you can move from one branch to the other. You move through branches and commits.

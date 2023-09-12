@@ -45,3 +45,5 @@ Testing what happens if I don't use -m to commit
 9. How to recover a deleted commit: `git reset` you can lose information, it is safer to use `git revert HEAD`, it reverts to the previous stage of the timeline. You can `git revert` the revert.
 
 10. Helpful comment from Matilde
+
+11. How to create a new branch `git branch <name>`
